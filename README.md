@@ -15,4 +15,4 @@ An interactive digital assistant and evolutionary robotics simulation. This proj
 ## ⚙️ How to Run
 1. Clone the repository: `git clone https://github.com/yourusername/darwin-bot.git`
 2. Install dependencies: Install neat pymunk to watch the simulation and matplotlib to plot the graph 
-3. Run the simulation: Change the mode as per your convinience 
+3. Run the simulation: Change the mode as per your convinience
