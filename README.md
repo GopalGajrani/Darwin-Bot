@@ -1,7 +1,3 @@
-# Darwin-Bot
-An interactive evolutionary robotics simulation that uses NEAT to train virtual creatures to master locomotion in a physics-based arena
-
-
 # Darwin Bot 🧬🤖
 
 An interactive digital assistant and evolutionary robotics simulation. This project allows users to develop and train virtual creatures using machine learning to master locomotion in a dynamic environment. 
@@ -13,13 +9,10 @@ An interactive digital assistant and evolutionary robotics simulation. This proj
 * **Sensor Fusion & Kinematic Control:** Integrates real-time environmental feedback for dynamic motor control.
 
 ## 🛠️ Tech Stack
-* **Language:** [e.g., C++, Python]
-* **Libraries/Frameworks:** [e.g., specific physics engines, ML libraries, or visualization tools]
+* **Language:** Python 
+* **Libraries/Frameworks:** Not required 
 
 ## ⚙️ How to Run
 1. Clone the repository: `git clone https://github.com/yourusername/darwin-bot.git`
-2. Install dependencies: [Add your specific command here, e.g., `pip install -r requirements.txt` or build instructions]
-3. Run the simulation: [Add the command to launch the project]
-
-## 🔮 Future Improvements
-* [List 1 or 2 things you want to add next, like "Improve the graphical interface" or "Add new obstacle types to the arena"]
+2. Install dependencies: Install neat pymunk to watch the simulation and matplotlib to plot the graph 
+3. Run the simulation: Change the mode as per your convinience 
